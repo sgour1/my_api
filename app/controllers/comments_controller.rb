@@ -42,6 +42,10 @@ class CommentsController < ApplicationController
     end
   end
 
+  def index2
+    
+  end
+
 
   private
 
