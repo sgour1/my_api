@@ -10,3 +10,5 @@ class NewController <  ApplicationController
   end
 
 end
+
+add by new_branch_one, commit_one
